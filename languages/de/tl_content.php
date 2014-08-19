@@ -22,5 +22,4 @@ $GLOBALS['TL_LANG']['tl_content']['selectContentWidthOption'][33] = "33%";
 $GLOBALS['TL_LANG']['tl_content']['selectContentWidthOption'][30] = "30%";
 $GLOBALS['TL_LANG']['tl_content']['selectContentWidthOption'][25] = "25%";
 $GLOBALS['TL_LANG']['tl_content']['selectContentWidthOption'][20] = "20%";
-$GLOBALS['TL_LANG']['tl_content']['selectContentWidthOption'][0] = "Keine Auswahl";
 ?>
